@@ -34,6 +34,7 @@ plt.xlabel('Age Group')
 plt.show()
 ```
 ### Output:
+<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/d6cc185f-3daa-44e5-bc7e-2568ca560bd7" />
 
 <img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/0dcafe14-2307-468c-8bc5-7c13ef540f35" />
 
