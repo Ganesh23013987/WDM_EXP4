@@ -51,8 +51,9 @@ plt.show()
 ```
 
 ### Output:
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/2b840428-0bf9-440e-8cb4-acc72f52abc2" />
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/51d7a4be-61c9-4779-9ea9-042b48e2ae37" />
+<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/658e6507-e1d4-4091-895a-6ab4ba71e110" />
+<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/9482cc89-aecc-43f6-b5b7-48c8f33d6a6e" />
+
 
 
 ### Result:
